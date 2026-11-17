@@ -31,3 +31,4 @@ npm run preview
 ```
 
 O CSS usa fontes do sistema, sem buscar fontes externas durante o carregamento. O bundle de produção é gerado em `dist/`.
+# Northstar-Labs
